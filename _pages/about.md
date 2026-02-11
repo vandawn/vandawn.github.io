@@ -33,8 +33,7 @@ I completed my Bachelor of Computer Science and Technology at Southwest Universi
 
 
 
-## 📝 Selected Publications
-
+# 📝 Selected Publications
 - ![WWW 2026](https://img.shields.io/badge/WWW-2026-1f6feb)
   **Relation-Aware Multimodal Analogical Reasoning with Modality Fingerprints and Adaptive Gating(PDF coming soon)**  
   **Ruofan Wang**, Zijian Huang, Qiqi Wang, Yuchen Su, Robert Amor, Kaiqi Zhao, Meng-Fen Chiang  
@@ -60,18 +59,18 @@ I completed my Bachelor of Computer Science and Technology at Southwest Universi
   Qiqi Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, **Ruofan Wang**  
   *Findings of the Association for Computational Linguistics: NAACL, 2022*
 
-## 📖 Teaching
+# 📖 Teaching
 
 - **Lecturer**, Algorithms for Massive Data (**COMPSCI 753**), *S2 2025*, University of Auckland
 - **Graduate Teaching Assistant**, Artificial Intelligence Fundamentals (**COMPSCI 713**), *S1 2025*, University of Auckland
 - **Graduate Teaching Assistant**, Natural Language Processing (**COMPSCI 769**), *S2 2024*, University of Auckland
 
-## 🎖 Honors and Awards
+# 🎖 Honors and Awards
 - Allan Maxwell Science PhD Scholarship, University of Auckland (UoA), Dec 2023
 - Southwest University Scholarship, Southwest University (SWU), Nov 2018
 
 
-## 💻 Professional Services
+# 💻 Professional Services
 
 **External Reviewer**
 - Association for Computational Linguistics (ACL)
