@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ruofan Wang - Homepage"
-description              : "Ruofan Wang Homepage"
+title                    : "Ruofan Wang"
+description              : "Ruofan Wang's Homepage"
 repository               : "vandawn/vandawn.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/vandawn"
+  github           : "vandawn"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ruofan-wang-b58a1825a/"
+  linkedin         : "/ruofan-wang-b58a1825a/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0003-4774-8633"
   pinterest        :
