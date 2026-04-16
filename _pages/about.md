@@ -35,7 +35,7 @@ I completed my Bachelor of Computer Science and Technology at Southwest Universi
 
 # 📝 Selected Publications
 - ![WWW 2026](https://img.shields.io/badge/WWW-2026-1f6feb)
-  **Relation-Aware Multimodal Analogical Reasoning with Modality Fingerprints and Adaptive Gating(PDF coming soon)**  
+  **[Relation-Aware Multimodal Analogical Reasoning with Modality Fingerprints and Adaptive Gating](https://dl.acm.org/doi/pdf/10.1145/3774904.3792481)**  
   **Ruofan Wang**, Zijian Huang, Qiqi Wang, Yuchen Su, Robert Amor, Kaiqi Zhao, Meng-Fen Chiang  
   *The Web Conference (WWW), 2026* · [Code](https://github.com/vandawn/RMAR_Analogy) 
 
