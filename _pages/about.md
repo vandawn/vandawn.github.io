@@ -37,7 +37,12 @@ I completed my Bachelor of Computer Science and Technology at Southwest Universi
 - ![WWW 2026](https://img.shields.io/badge/WWW-2026-1f6feb)
   **[Relation-Aware Multimodal Analogical Reasoning with Modality Fingerprints and Adaptive Gating](https://dl.acm.org/doi/pdf/10.1145/3774904.3792481)**  
   **Ruofan Wang**, Zijian Huang, Qiqi Wang, Yuchen Su, Robert Amor, Kaiqi Zhao, Meng-Fen Chiang  
-  *The Web Conference (WWW), 2026* · [Code](https://github.com/vandawn/RMAR_Analogy) 
+  *The Web Conference (WWW), 2026* · [Code](https://github.com/vandawn/RMAR_Analogy)
+
+- ![EMNLP 2026]
+  **[PunGraph: Retrieval-Enhanced Phonetic-Semantic Graph Reasoning for Pun Understanding]**
+Yuchen Su, Zijian Huang, Yaotian Shi, Shaoxin Zhong, **Ruofan Wang**, Mengze Li, Yonghua Zhu, Diana Benavides-Prado, Michael Witbrock
+*The 2026 Conference on Empirical Methods in Natural Language Processing: EMNLP, 2026*
 
 - ![EMNLP 2025](https://img.shields.io/badge/EMNLP-Findings%202025-1f6feb)
   **[A Survey of Pun Generation: Datasets, Evaluations and Methodologies](https://aclanthology.org/anthology-files/pdf/findings/2025.findings-emnlp.389.pdf)**  
